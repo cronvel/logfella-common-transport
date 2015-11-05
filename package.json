@@ -1,25 +1,16 @@
 {
   "name": "logfella-common-transport",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "engines": {
     "node": ">=4.0.0"
   },
   "description": "Logfella common transport",
   "main": "lib/Common.transport.js",
   "dependencies": {
-    "async-kit": "^0.6.5",
-    "kung-fig": "^0.3.4",
-    "string-kit": "^0.2.10",
-    "tree-kit": "^0.5.6"
-  },
-  "devDependencies": {
-    "expect.js": "^0.3.1",
-    "jshint": "^2.5.6",
-    "mocha": "^1.21.4"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cronvel/logfella.git"
+    "url": "https://github.com/cronvel/logfella-common-transport.git"
   },
   "keywords": [
     "logger"
@@ -27,6 +18,6 @@
   "author": "Cédric Ronvel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cronvel/logfella/issues"
+    "url": "https://github.com/cronvel/logfella-common-transport/issues"
   }
 }
