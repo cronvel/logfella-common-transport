@@ -1,13 +1,12 @@
 {
   "name": "logfella-common-transport",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "engines": {
     "node": ">=4.0.0"
   },
   "description": "Logfella common transport",
   "main": "lib/Common.transport.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/cronvel/logfella-common-transport.git"
