@@ -1,6 +1,6 @@
 {
   "name": "logfella-common-transport",
-  "version": "0.3.4",
+  "version": "1.0.0",
   "engines": {
     "node": ">=4.0.0"
   },
