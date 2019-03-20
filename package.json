@@ -1,6 +1,6 @@
 {
   "name": "logfella-common-transport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "node": ">=4.0.0"
   },
@@ -29,7 +29,7 @@
     "title": "Logfella Common Transport",
     "years": [
       2015,
-      2018
+      2019
     ],
     "owner": "Cédric Ronvel"
   }
